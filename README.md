@@ -1,4 +1,3 @@
-# Leetcode_Daily_Solutions
 # LeetCode Daily Solutions Automation
 This repository automatically updates with daily LeetCode solutions.
 
