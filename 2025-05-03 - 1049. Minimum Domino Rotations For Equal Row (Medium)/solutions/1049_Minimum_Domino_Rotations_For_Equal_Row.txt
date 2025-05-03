@@ -1,9 +1,0 @@
-# Minimum Domino Rotations For Equal Row - Elixir Solution
-# Problem URL: https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/
-
-defmodule Solution do
-  @spec min_domino_rotations(tops :: [integer], bottoms :: [integer]) :: integer
-  def min_domino_rotations(tops, bottoms) do
-    
-  end
-end
